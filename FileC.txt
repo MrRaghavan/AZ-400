@@ -1,3 +1,2 @@
 This is FileC.
 Lets make a change.
-This is for squash merge.
